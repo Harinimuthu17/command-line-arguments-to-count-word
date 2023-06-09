@@ -54,7 +54,8 @@ print("No of words in a file",count)
 
 ![image](https://github.com/Harinimuthu17/command-line-arguments-to-count-word/assets/130278614/fb447575-09d8-4a47-a60d-59c2dfed57e2)
 ![image](https://github.com/Harinimuthu17/command-line-arguments-to-count-word/assets/130278614/ebb7684e-a4e8-4eda-9209-6402987d79c2)
-![image](https://github.com/Harinimuthu17/command-line-arguments-to-count-word/assets/130278614/311fa863-d75f-46c2-8b52-6a686472b5e6)
+![image](https://github.com/Harinimuthu17/command-line-arguments-to-count-word/assets/130278614/ad4b980e-26c1-4337-a10a-893040cf6157)
+
 
 
 
